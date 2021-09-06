@@ -1,8 +1,8 @@
 {
- posts: [
+ 'posts': [
   {
-   id: 1,
-   title: 'dfv'
+   'id': 1,
+   'title': 'dfv'
   }
  ]
 }
